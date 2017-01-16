@@ -1,10 +1,12 @@
 fileFormatVersion: 2
 guid: c18171a3c900f45418cad13fc97733d8
-timeCreated: 1481038535
-licenseType: Pro
+timeCreated: 1484519669
+licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - lightUpMaterial: {fileID: 2100000, guid: b73863c582ce6441c92edfec34c6e3a6, type: 2}
+  - gameLogic: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
